@@ -1,0 +1,19 @@
+package app_java_2;
+
+public class A {
+       int  x =10;
+
+public class B extends A {
+	
+}
+	
+
+public static void main(String [] args){
+	A b1 = new A();
+	
+	b1.test();
+}
+   public void test() {
+    System.out.println(x);
+  }
+}

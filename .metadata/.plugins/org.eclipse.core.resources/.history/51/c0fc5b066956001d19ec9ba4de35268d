@@ -1,0 +1,6 @@
+package p1;
+
+public interface B {
+	public void test2();
+
+}

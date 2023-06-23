@@ -1,0 +1,15 @@
+package p1;
+
+public class B {
+	public static void main(String[] args) {
+		String str = " pankaj sir academy ";
+		String a = str.trim();
+		System.out.println(s.length);
+		for (String x : s) {
+			System.out.println(x);
+			
+		}
+	}
+	
+
+}
